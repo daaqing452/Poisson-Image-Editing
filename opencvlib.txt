@@ -1,0 +1,11 @@
+opencv_core246.lib
+opencv_imgproc246.lib
+opencv_highgui246.lib
+opencv_ml246.lib
+opencv_video246.lib
+opencv_features2d246.lib
+opencv_calib3d246.lib
+opencv_objdetect246.lib
+opencv_contrib246.lib
+opencv_legacy246.lib
+opencv_flann246.lib

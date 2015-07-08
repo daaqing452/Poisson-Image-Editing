@@ -1,0 +1,23 @@
+﻿生成启动时间为 2015/1/21 23:02:20。
+     1>项目“E:\Study\Courseware\z 大3上\媒体计算\Poisson Image Editing\PoissonImageEditing\PoissonImageEditing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\Program Files (x86)\Opencv\build\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(214): warning C4018: “<”: 有符号/无符号不匹配
+     1>main.cpp(281): warning C4018: “<”: 有符号/无符号不匹配
+     1>main.cpp(298): warning C4018: “<”: 有符号/无符号不匹配
+     1>main.cpp(310): warning C4018: “<”: 有符号/无符号不匹配
+     1>main.cpp(318): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Study\Courseware\z 大3上\媒体计算\Poisson Image Editing\Release\PoissonImageEditing.exe" /NOLOGO /LIBPATH:"E:\Program Files (x86)\Opencv\build\x86\vc11\lib" opencv_core246.lib opencv_imgproc246.lib opencv_highgui246.lib opencv_ml246.lib opencv_video246.lib opencv_features2d246.lib opencv_calib3d246.lib opencv_objdetect246.lib opencv_contrib246.lib opencv_legacy246.lib opencv_flann246.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Study\Courseware\z 大3上\媒体计算\Poisson Image Editing\Release\PoissonImageEditing.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Study\Courseware\z 大3上\媒体计算\Poisson Image Editing\Release\PoissonImageEditing.lib" /MACHINE:X86 /SAFESEH Release\gsi.obj
+         Release\main.obj
+         Release\mask.obj
+         Release\pimage.obj
+         正在生成代码
+         已完成代码的生成
+         PoissonImageEditing.vcxproj -> E:\Study\Courseware\z 大3上\媒体计算\Poisson Image Editing\Release\PoissonImageEditing.exe
+     1>已完成生成项目“E:\Study\Courseware\z 大3上\媒体计算\Poisson Image Editing\PoissonImageEditing\PoissonImageEditing.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.10
